@@ -1,0 +1,14 @@
+/* Yes, I learned basic CSS */
+.mtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.linksub {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.eaglerlink {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* Link Hover border*/
+a:hover{
+    border:1px solid blue;
+}
