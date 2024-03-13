@@ -1,3 +1,3 @@
 # Ijustplaymc.github.io
-I dont know what else to say, it just hosts a few games
-May add more things later
+I decided to try and learn html and CSS, as well as the general GH workflow.
+This abomination is the result, a few games and stuff. (iframes, ~~copy paste~~, etc)
