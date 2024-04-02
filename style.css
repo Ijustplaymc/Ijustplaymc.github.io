@@ -1,4 +1,7 @@
-/* Yes, I learned basic CSS */
+/* About as basic as it gets */
+body {
+    background-color: darkgray;
+}
 .mtitle {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
