@@ -1,3 +1,4 @@
 # Ijustplaymc.github.io
 I decided to try and learn html and CSS, as well as the general GH workflow.
-This abomination is the result, a few games and stuff. (iframes, ~~copy paste~~, etc)
+As you can tell, I used 1% of my own code and 99% of others.
+I use this to simply host games and "run them on nintendo wii's and applicances for fun"
